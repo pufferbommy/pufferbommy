@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pufferbommy
 - 👀 I’m interested in coding,english language
-- 🌱 I’m currently learning : javascript,html,css,java
+- 🌱 I’m currently learning = { javascript,html,css,java }
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
