@@ -1,7 +1,7 @@
 ## Welcome to my profile.
 - 👋 Hi, I’m @pufferbommy
 - 👀 I’m interested in coding,english language
-- 🌱 I’m currently learning vuejs,javascript,c++ }
+- 🌱 I’m currently learning vuejs,javascript,c++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
