@@ -7,7 +7,7 @@
 - C & C++
 
 ## 🌱 I’m currently learning ...
-- React & React Native
+- ReactJS & React Native
 - Randomized Algorithms
 - Node JS
 <br/>
