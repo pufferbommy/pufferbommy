@@ -9,7 +9,7 @@
 ## 🌱 I’m currently learning ...
 - ReactJS & React Native
 - Randomized Algorithms
-- Node JS && Express
+- Node JS & Express
 <br/>
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=pufferbommy&layout=compact&theme=nightowl)
