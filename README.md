@@ -8,7 +8,7 @@
 - MongoDB
 
 ### To learn list ❤
-- UI & UX
+- Ui & Ux
 - React Native
 - Randomized Algorithms
 
