@@ -8,8 +8,8 @@
 - MongoDB
 
 ### To learn list ❤
-- Ui & Ux
-- React Native
-- Randomized Algorithms
+- Ui & ux
+- React native
+- Randomized algorithms
 
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=pufferbommy&layout=compact&theme=nightowl)
